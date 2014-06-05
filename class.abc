@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * Description of class
+ *
+ * @author koozy
+ */
+class Abc {
+    //put your code here
+    private $test1;
+    
+    function __construct(){
+        
+    }
+}
