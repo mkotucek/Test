@@ -3,7 +3,7 @@
 /**
  * Description of class
  *
- * @author koozy
+ * @auth or koozy
  */
 class Abc {
     //put your code here
@@ -11,5 +11,9 @@ class Abc {
     
     function __construct(){
         
+    }
+    
+    public function test(){
+        $test1 = 1;
     }
 }
