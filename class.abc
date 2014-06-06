@@ -10,7 +10,7 @@ class Abc {
     private $test1;
     
     function __construct(){
-        
+        $test1 = 3;
     }
     
     public function test(){
