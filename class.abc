@@ -16,4 +16,10 @@ class Abc {
     public function test(){
         $test1 = 1;
     }
+	
+    // this function is new to class
+    public function newOne(){
+        //some code
+	$test1 *= 2;
+    }
 }
